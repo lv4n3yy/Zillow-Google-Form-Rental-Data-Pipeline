@@ -9,6 +9,8 @@ A Python automation script that scrapes rental listings from Zillow for San Fran
 - Normalizes relative URLs to full `https://www.zillow.com/...` links.
 - Uses Selenium WebDriver (Chrome) to open a Google Form and submit one response per listing.
 
+  ![Filling in](Screenshot%202025-12-29%20at%2016.26.07.png)
+
 ## Requirements
 
 - Python 3.10+
